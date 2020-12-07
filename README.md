@@ -26,4 +26,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Working
 
-<img src="https://user-images.githubusercontent.com/73339220/101341590-223a4180-38a3-11eb-8114-26dcaab37ffb.gif" width=150 />
+<img src="https://user-images.githubusercontent.com/73339220/101341590-223a4180-38a3-11eb-8114-26dcaab37ffb.gif" width=300 />
